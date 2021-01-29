@@ -1,0 +1,19 @@
+body{
+    background: green;
+}
+
+.card ul li{
+    border: none;
+}
+
+#SymbolHead, #SymbolFooter {
+    font-size: 40px;
+}
+
+#SymbolBody{
+    font-size: 80px;
+}
+
+#SymbolFooter{
+    transform: rotate(180deg);
+}
